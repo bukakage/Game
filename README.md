@@ -1,3 +1,4 @@
 # Game
 Stone Paper Scissors mini game
-First Prototype
+
+# First Prototype
